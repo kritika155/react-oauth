@@ -31,7 +31,7 @@ class App extends Component {
 
 
       <GoogleLogin
-        clientId="401245627689-4ceut94d75nmslud8un0lafphp6mm6ph.apps.googleusercontent.com" //CLIENTID NOT CREATED YET
+        clientId="935146731529-qrmqsth87n9qrr3rhj9upsq5h9prcc7m.apps.googleusercontent.com" //CLIENTID NOT CREATED YET
         buttonText="LOGIN WITH GOOGLE"
         onSuccess={responseGoogle}
         onFailure={responseGoogle}
